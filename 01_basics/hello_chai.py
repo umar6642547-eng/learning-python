@@ -2,4 +2,5 @@ print("chai aur python")
 def chai(n):
     print(n)
 
-chai("lemon tea")    
+chai("lemon tea")  
+chai("milk chai")  
